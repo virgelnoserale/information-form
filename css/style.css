@@ -1,0 +1,60 @@
+
+.body {
+    background-image: linear-gradient(to right, rgb(185, 59, 207),rgb(227, 60, 110));
+}
+
+h3 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.form-label {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#validationCustom01,
+#validationCustom02,
+#validationCustomUsername,
+#validationCustom03,
+#validationCustom04,
+#validationCustom05
+  {
+    background-color: rgba(0,0,0,0);
+    color: white;
+    border-bottom: 1px solid white;
+    border-radius: 0;
+    border-top:none ;
+    border-left: none;
+    border-right: none ;
+    }
+
+form {
+    background-image: linear-gradient(to right, rgb(105, 10, 145) , rgb(120, 15, 32));
+    box-shadow: 1px 1px 5px rgb(255, 255, 255);
+    border-radius: 5px;
+    padding-bottom: 10px; 
+}
+
+#submitbtn {
+    float: right;
+    border: none;
+    color:white;
+    background-color: rgb(81, 29, 107);
+}
+#submitbtn:hover {
+    float: right;
+    border: none;
+    color:white;
+    background-color: rgb(114, 41, 150);
+}
+
+
+option {
+    color: black;
+    font-size: small;
+    background-color: rgb(172, 250, 250);
+}
